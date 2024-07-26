@@ -5,6 +5,9 @@
 - The only a example I found is the project of the URL below, and this project is almost a copy of this example but using Jetstream (inertia). Appreciate the author of the project, Harish Kumar.
   - https://qirolab.com/posts/building-real-time-chat-applications-with-laravel-reverb-and-vue-3 
 
+- The article on Qiita
+  - https://qiita.com/KosukeTakagi/items/fabf9d7e33ccc21b9590
+
 ## Steps
 
 ### 1. Create a new Laravel project and Install Jetstream (Inertia) and Laravel Reverb
@@ -497,3 +500,5 @@ php artisan reverb:start --debug
 ```bash
 npm run dev
 ```
+
+![The Chat image when succeeded to build](./screenshot_success.png?raw=true "Chat")
